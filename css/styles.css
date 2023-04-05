@@ -1,0 +1,11 @@
+body{background-color: rgba(241, 155, 43, 0.953);}
+hr{ border-style: dotted none none; border-color: black;border-width: 5px; width: 30%;}
+h1{
+    text-shadow: 2px 2px 5px red;
+    text-align: center;
+    font-family: Georgia, serif;
+  }
+  h2{
+    text-align: center;
+    font-family: Georgia, serif;
+  }
